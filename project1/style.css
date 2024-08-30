@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+table, th, tr, td{
+    border: 1px solid black;
+    text-align:left;
+    vertical-align:text-top;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
